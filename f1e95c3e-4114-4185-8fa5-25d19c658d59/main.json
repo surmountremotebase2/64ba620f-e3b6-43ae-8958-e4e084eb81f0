@@ -1,1 +1,1 @@
-{}
+{"allocations": {"ARM": 20.0, "TSMC": 18.0, "ASML": 15.0, "SMCI": 12.0, "KLAC": 10.0, "LRCX": 8.0, "ANET": 7.0, "CORV": 5.0, "PSTG": 5.0}, "frequency": 2, "name": "", "period": "months"}
